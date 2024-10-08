@@ -2,6 +2,8 @@
 
 This project is a RESTful API for managing events, waitlists and tickets/bookings within an ticket booking system. It includes user authentication.
 
+Swagger API Documentation is hosted at http://localhost:3000/api-docs.
+
 ## Table of Contents
 
 - [Features](#features)
