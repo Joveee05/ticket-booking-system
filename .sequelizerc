@@ -1,0 +1,6 @@
+import path from 'path';
+
+export const config = path.resolve('src', 'config', 'sequelize-cli.js');
+export const modelsPath = path.resolve('src', 'models');
+export const seedersPath = path.resolve('src', 'database', 'seeders');
+export const migrationsPath = path.resolve('src', 'database', 'migrations');
